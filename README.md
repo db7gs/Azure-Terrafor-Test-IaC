@@ -22,10 +22,10 @@ Replace the values below in **main.tf** with the output from the Azure CLI:
 [Create a Service Principal for Terraform](https://www.terraform.io/docs/providers/azurerm/guides/service_principal_client_secret.html)
 
 Replace the values below in **terraform.tfvars** with the output from the Azure CLI:
-*subscription_id
-*client_id
-*cliente_secret
-*tenant_id
+* subscription_id
+* client_id
+* cliente_secret
+* tenant_id
 
 ## DEPLOY
 
